@@ -1,0 +1,16 @@
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\FocusKSAValidatorBL.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\FocusKSAValidatorBL.pdb
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\BouncyCastle.Crypto.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\IKVM.OpenJDK.Core.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\IKVM.OpenJDK.Text.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\IKVM.OpenJDK.Util.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\IKVM.OpenJDK.XML.API.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\IKVM.Runtime.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\saxon-he-10.8.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\saxon-he-api-10.8.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Release\SDKNETFrameWorkLib.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Release\FocusKSAValidatorBL.csproj.AssemblyReference.cache
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Release\FocusKSAValidatorBL.csproj.CoreCompileInputs.cache
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Release\FocusKSAValidatorBL.csproj.CopyComplete
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Release\FocusKSAValidatorBL.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Release\FocusKSAValidatorBL.pdb

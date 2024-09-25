@@ -1,0 +1,113 @@
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.pdb
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.tlb
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\BouncyCastle.Crypto.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Core.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Text.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Util.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.XML.API.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.Runtime.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-10.8.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.CoreCompileInputs.cache
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.CopyComplete
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.dll
+G:\SVN Projects\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.pdb
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.pdb
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.tlb
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\BouncyCastle.Crypto.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.Runtime.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-10.8.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.xml
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.pdb
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.AssemblyReference.cache
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.CoreCompileInputs.cache
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.CopyComplete
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.dll
+E:\FocusDesktop\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.pdb
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.pdb
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.tlb
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\BouncyCastle.Crypto.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Core.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Text.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Util.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.XML.API.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.Runtime.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-10.8.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.xml
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.pdb
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.AssemblyReference.cache
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.CoreCompileInputs.cache
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.CopyComplete
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.dll
+G:\Einvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.pdb
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.pdb
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.tlb
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\BouncyCastle.Crypto.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Core.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Text.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Util.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.XML.API.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.Runtime.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-10.8.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.xml
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.pdb
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.AssemblyReference.cache
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.CoreCompileInputs.cache
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.CopyComplete
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.dll
+H:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.pdb
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.pdb
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.tlb
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\BouncyCastle.Crypto.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Core.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Text.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Util.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.XML.API.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.Runtime.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\Newtonsoft.Json.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-10.8.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.xml
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.pdb
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.AssemblyReference.cache
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.CoreCompileInputs.cache
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSA.4CA3B4ED.Up2Date
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.dll
+F:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.pdb
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.pdb
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\FocusKSAValidatorBL.tlb
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\BouncyCastle.Crypto.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\IKVM.Runtime.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\Newtonsoft.Json.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-10.8.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\saxon-he-api-10.8.xml
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\bin\Debug\SDKNETFrameWorkLib.pdb
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.AssemblyReference.cache
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.csproj.CoreCompileInputs.cache
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSA.4CA3B4ED.Up2Date
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.dll
+E:\KSAEinvoice\FocusValidator\FocusKSAValidatorBL\obj\Debug\FocusKSAValidatorBL.pdb
